@@ -1,1 +1,1 @@
-# magicMirrorProxy is needed to fix wienerlinien cors error
+# magicMirrorProxy is required to fix wienerlinien cors error
